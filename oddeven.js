@@ -1,4 +1,4 @@
-let n = 14;
+let n = 13;
 if (n % 2 == 0) {
   console.log("even");
 } else {
